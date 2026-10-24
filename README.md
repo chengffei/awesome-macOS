@@ -139,6 +139,7 @@
 ### E-Book Utilities
 
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for macOS.
+- [Leaf](https://chengffei.github.io/leaf/) - Minimal EPUB, MOBI and AZW3 reader that opens files straight from Finder, with no library. [![Open-Source Software][OSS Icon]](https://github.com/chengffei/leaf) ![Freeware][Freeware Icon]
 
 
 ### Editors
